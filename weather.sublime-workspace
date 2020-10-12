@@ -1,0 +1,264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"inputZip"
+			],
+			[
+				"in",
+				"inputZip"
+			],
+			[
+				"val",
+				"valid_zip"
+			],
+			[
+				"inpu",
+				"inputZip"
+			],
+			[
+				"zip",
+				"zipcode"
+			],
+			[
+				"get",
+				"getZipcode"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"Vehi",
+				"Vehicle_Description"
+			],
+			[
+				"Ve",
+				"Vehicle_Description"
+			],
+			[
+				"km",
+				"kmcalc"
+			],
+			[
+				"disc",
+				"disc1"
+			],
+			[
+				"cab",
+				"cablereq"
+			],
+			[
+				"cable",
+				"cablereq"
+			],
+			[
+				"cabl",
+				"cablecost"
+			],
+			[
+				"ca",
+				"cablereq"
+			],
+			[
+				"c",
+				"cablereq"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: New Build System"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sarah/Desktop/python_project/getzip.py",
+		"/C/Users/sarah/Desktop/python_work/miles_km.py",
+		"/C/Users/sarah/Desktop/python_work/create_username_and_password.py",
+		"/C/Users/sarah/Desktop/python_work/hello_git.py",
+		"/C/Users/sarah/Desktop/python_work/.gitignore",
+		"/C/Users/sarah/Desktop/python_work/peer-review-errors/peer-review-errors/peerReviewErrors.py",
+		"/C/Users/sarah/Desktop/python_work/peer-review-errors/peerReviewErrors.py",
+		"/C/Users/sarah/Downloads/vehicles.py",
+		"/C/Users/sarah/Desktop/python_work/garage.py",
+		"/C/Users/sarah/Desktop/python_work/simpinterest.py",
+		"/C/Users/sarah/Desktop/python_work/cmpdinterest.py",
+		"/C/Users/sarah/Desktop/python_work/stocks.py",
+		"/C/Users/sarah/Desktop/python_work/Assignment_2_1_part_2.py",
+		"/C/Users/sarah/Desktop/python_work/create_username.py",
+		"/C/Users/sarah/Desktop/python_work/interest.py",
+		"/C/Users/sarah/Desktop/python_work/general.py",
+		"/C/Users/sarah/Desktop/python_work/Assignment_2_1_part_1.py",
+		"/C/Users/sarah/Desktop/python_work/Assignment_2_1.py",
+		"/C/Users/sarah/Desktop/python_work/Assignment 2.1.py",
+		"/C/Users/sarah/Desktop/python_work/password_verification.py",
+		"/C/Users/sarah/Desktop/python_work/pseudocode week one.py",
+		"/C/Users/sarah/Desktop/python_work/name.py",
+		"/C/Users/sarah/Desktop/python_work/hello_world.py",
+		"/C/Users/sarah/Desktop/Bellevue/CIS 245 Programming/python_work/hello_world.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "weather.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
