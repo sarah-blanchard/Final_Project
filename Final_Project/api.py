@@ -4,7 +4,8 @@ import requests, json
 degree_sign= u'\N{DEGREE SIGN}'
 
 def show_Main_Menu():
-	print('Welcome to WEATHER NOW')
+	print('Connection Status: Connected'
+	'\n Welcome to WEATHER NOW')
 	print('1 - Find current weather for a specific location')
 	print('2 - Quit')
 
